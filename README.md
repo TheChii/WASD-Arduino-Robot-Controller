@@ -51,7 +51,7 @@ A modern interface for controlling a two-wheeled robot using WASD keyboard contr
 ## Controls 🎮
 
 | Key Combination | Movement Direction |
-|-----------------|-------------------||
+|-----------------|-------------------|
 | W               | Forward           |
 | S               | Backward          |
 | A               | Turn Left         |
